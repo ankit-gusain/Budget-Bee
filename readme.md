@@ -68,7 +68,7 @@ Follow these steps to set up and run the project locally:
 | ------------------ | --------------------------------------------- |
 | Dashboard Overview | ![Dashboard](./frontend/public/1.png)     |
 | Add Expense        | ![Add Expense](./frontend/public/2.png) |
-| Add Expense        | ![View Expense](./frontend/public/3.png) |
+| Track Expense        | ![View Expense](./frontend/public/3.png) |
 
 ---
 
